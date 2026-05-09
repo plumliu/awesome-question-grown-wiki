@@ -1,0 +1,7 @@
+[project]
+name = "question-grown-wiki"
+version = "0.1.0"
+description = "Codex skills for a question-grown LLM theory learning wiki in Obsidian"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []

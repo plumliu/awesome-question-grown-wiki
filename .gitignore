@@ -1,0 +1,23 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Local editor and OS files
+.DS_Store
+.idea/
+
+# Local/private wiki data and cloned references
+/vault/
+/references/
+/upstream/
+
+# Local environment/config files
+.env
+*.local
